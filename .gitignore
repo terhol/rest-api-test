@@ -5,3 +5,6 @@
 # dist
 out
 target
+
+# other
+.DS_Store
